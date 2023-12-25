@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "__functional_base": "cpp",
+    "algorithm": "cpp",
+    "functional": "cpp",
+    "__locale": "cpp",
+    "ios": "cpp",
+    "iostream": "cpp",
+    "fstream": "cpp",
+    "iosfwd": "cpp",
+    "istream": "cpp",
+    "string": "cpp"
+  }
+}
